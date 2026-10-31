@@ -1,0 +1,8 @@
+{
+  "name": "Remix Jal-Nikaas: Agro-Drain",
+  "description": "Smart Agricultural Waterlogging \u0026 Drainage Early-Warning Platform for Eastern India",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
